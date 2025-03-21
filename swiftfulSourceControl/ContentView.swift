@@ -5,6 +5,29 @@
 //  Created by Harshit Jharotiya on 20/03/25.
 //
 
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURES:
+ [FEATURE]: Description of feature
+ 
+ BUG IN PRODUDCTION:
+ [patch]: Description of patch
+ 
+ BUG NOT IN PRODUCTION:
+ [Bug]: Description of the Bug
+ 
+ MUDANE TASKS:
+ [Clean] Description of changes
+ 
+ RELEASE:
+ [Release] Description of release
+ 
+ 
+ 
+ 
+ */
+
 import SwiftUI
 
 struct ContentView: View {
@@ -20,6 +43,13 @@ struct ContentView: View {
             } label: {
                 Text("hey there")
             }
+            
+            Button {
+                
+            } label: {
+                Text("new feature")
+            }
+
 
 
         }
