@@ -14,6 +14,13 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
           Text("i dont need it ")
+            
+            Button {
+                
+            } label: {
+                Text("hey there")
+            }
+
 
         }
         .padding()
