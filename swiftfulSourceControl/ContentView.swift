@@ -50,7 +50,7 @@ struct ContentView: View {
                 Text("new feature")
             }
             Rectangle()
-
+            Text("print if u find it")
 
 
         }
