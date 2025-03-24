@@ -49,6 +49,7 @@ struct ContentView: View {
             } label: {
                 Text("new feature")
             }
+            Rectangle()
 
 
 
